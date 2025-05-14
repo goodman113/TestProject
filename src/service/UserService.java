@@ -29,7 +29,7 @@ public class UserService {
                     1 begin test
                     2 leader board
                     3 add friend
-                    4 see massages 
+                    4 see massages (no massages)
                     5 see friends
                     6 history
                     """);
